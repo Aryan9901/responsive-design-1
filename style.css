@@ -305,7 +305,7 @@ html {
 	}
 	#first #linetxt {
 		/* position: relative; */
-		bottom: -12%;
+		bottom: -5%;
 		left: 15%;
 		height: 60vh;
 		justify-content: center;
